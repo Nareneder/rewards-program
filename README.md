@@ -36,9 +36,13 @@ npm test
 ## Folder Structure
 src/ 
  -api/ 
+ 
  -components/ 
+ 
  -utils/ 
+ 
  -App.jsx
+ 
  -App.test.js 
 
 ## What's Included

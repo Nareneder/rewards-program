@@ -34,7 +34,8 @@ For running test cases:
 npm test
 
 ## Folder Structure
-src/ 
+src/
+
  -api/ 
  
  -components/ 

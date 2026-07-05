@@ -37,7 +37,6 @@ npm test
 src/
 
  -api/ 
- 
  -components/ 
  
  -utils/ 

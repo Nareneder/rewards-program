@@ -38,7 +38,7 @@ src/
  -api/ 
  -components/ 
  -utils/ 
- -App.jsx 
+ -App.jsx
  -App.test.js 
 
 ## What's Included

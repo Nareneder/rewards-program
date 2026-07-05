@@ -25,5 +25,4 @@ const ErrorBoundary = ({ children }) => {
     </ReactErrorBoundary>
   );
 };
-
 export default ErrorBoundary;
